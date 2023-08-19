@@ -22,7 +22,7 @@ Pada aplikasi ini kita dapat melakukan komentar pada setiap video yang ada
 3. Setelah selesai, pada terminal ketikan npm install nodemon -g (untuk install nodemon secara global), atau jika sudah ada nodemon, gunakan nodemon index.js
 4. Selesai
 
-# How To Install and Run API
+# How To Install and Run React App
 1. Buka folder frontend pada Visual Studio Code
 2. Buka terminal,  lalu ketik npm install
 3. Setelah selesai, ketikan npm start
