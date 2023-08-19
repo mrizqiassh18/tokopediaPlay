@@ -10,8 +10,8 @@ https://tokopedia-play-frontend-five.vercel.app/
 4. Backend : https://github.com/mrizqiassh18/tokopediaPlay_Backend.git
 
 # Introduction
-Project Name : Tokopedia Play Clone
-Description : Aplikasi ini adalah clone dari website Tokopedia Play
+1. Project Name : Tokopedia Play Clone
+2. Description : Aplikasi ini adalah clone dari website Tokopedia Play
 
 # Features
 Pada aplikasi ini kita dapat melakukan komentar pada setiap video yang ada
