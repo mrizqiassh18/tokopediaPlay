@@ -6,8 +6,8 @@ File Frontend terdapat pada Branch frontend
 https://tokopedia-play-frontend-five.vercel.app/
 
 2. Berikut ini link repository github untuk program yang dideploy (hanya terdapat perbedaan di host)
-Frontend : https://github.com/mrizqiassh18/tokopediaPlay_Frontend.git
-Backend : https://github.com/mrizqiassh18/tokopediaPlay_Backend.git
+3. Frontend : https://github.com/mrizqiassh18/tokopediaPlay_Frontend.git
+4. Backend : https://github.com/mrizqiassh18/tokopediaPlay_Backend.git
 
 # Introduction
 Project Name : Tokopedia Play Clone
